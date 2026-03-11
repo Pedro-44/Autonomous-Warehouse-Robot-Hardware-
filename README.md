@@ -1,12 +1,9 @@
-
-
-
 # Autonomous Warehouse Restocking Robot (TRL 3 Prototype)
 
 An autonomous mobile robot designed to identify, collect, and restock grocery items on various shelving units within a simulated grocery store environment. This project was developed as part of the **EGB320 - Mechatronics Design II** course at the **Queensland University of Technology (QUT)**.
 
-![Image of Actual Robot implementation](image-url)
-![Image of final CAD Robot](image-url)
+![Image of Actual Robot implementation](Screenshot 2026-03-11 145050.png)
+![Image of final CAD Robot](Screenshot 2025-10-28 151323.png)
 ---
 
 ## 🛠️ Subsystem Spotlight: Item Collection
@@ -17,6 +14,8 @@ I was responsible for the research, design, and testing of the **Item Collection
 * **Lead Screw Actuation:** Converts the rotational motion of a DC motor into linear displacement. The added friction acts as a lock, preventing the lift from falling without continuous power.
 * **Parallel Rack-and-Pinion Gripper:** Chosen for its mechanical simplicity and ability to ensure even gripping forces on objects of varying shapes.
 * **3D Printed Components:** All lifting and gripping components were modeled in Autodesk Fusion 360 and produced via 3D printing through multiple iterations.
+
+* ![Image of final CAD Robot](Screenshot 2026-03-11 145121.png)
 
 
 
